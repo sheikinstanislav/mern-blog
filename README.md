@@ -1,1 +1,2 @@
-# mern-blog
+# mern-blog-project
+
